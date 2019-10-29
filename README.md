@@ -1,8 +1,8 @@
 # Online-Cinema-Reservation-System
 OCRS is a web-based system designed to manage all essential aspects of online cinema, which are login and registration, manage movie schedule, manage hall, manage booking, and manage payment.
 The system is completed in a group of 5 member, for the purpose of completing university coursework. 
---->IMPORTANT: The system is not complete system, and it is just a small system.
-Link to the zip file: https://drive.google.com/open?id=1SQpXw9yg-a1J-s1uDByV9FhFQzAAw8ga
+</br>--->IMPORTANT: The system is not complete system, and it is just a small system.
+</br>Link to the zip file: https://drive.google.com/open?id=1SQpXw9yg-a1J-s1uDByV9FhFQzAAw8ga
 
 Screenshot of the system:
 
