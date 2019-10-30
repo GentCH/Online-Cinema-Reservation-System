@@ -27,5 +27,5 @@ Microsoft Visual Studio, Entity Framework
 ![Screenshot (64)](https://user-images.githubusercontent.com/44870863/67784295-88e90b00-faa6-11e9-89ab-1cc7ff9e0d55.png)
 
 </br>6. Admin manage seat page.
-e
+
 ![Screenshot (65)](https://user-images.githubusercontent.com/44870863/67784296-88e90b00-faa6-11e9-9f77-54e61a5ee71e.png)
